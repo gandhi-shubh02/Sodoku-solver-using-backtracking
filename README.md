@@ -1,1 +1,1 @@
-#Sudoku game solver using backtracking algorithm
+Sudoku game solver using backtracking algorithm
